@@ -2,7 +2,7 @@
 
 No hace falta descargar el proyecto para visualizarlo, se puede acceder desde el siguiente link.
 
-[***LINK DEL PROYECTO***](blank:#https://taupe-sawine-e7fb54.netlify.app/#)
+[***LINK DEL PROYECTO***](https://taupe-sawine-e7fb54.netlify.app/#)
 
 ## Tecnologías utilizadas
 
